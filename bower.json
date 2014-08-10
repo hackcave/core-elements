@@ -8,6 +8,14 @@
   "private": true,
   "dependencies": {
     "polymer": "polymer/polymer#master",
-    "core-elements": "polymer/core-elements#0.3.4"
+    "core-elements": "polymer/core-elements#master"
+  },
+  "resolutions": {
+    "core-transition": "master",
+    "core-meta": "master",
+    "core-overlay": "master",
+    "polymer": "master",
+    "core-component-page": "master",
+    "platform": "master"
   }
 }
